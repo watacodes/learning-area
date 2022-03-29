@@ -54,3 +54,7 @@ caption {
 .data, .data-foot {
   font-style: italic;
 }
+
+h2 ~ p {
+  font-style: italic;
+}
